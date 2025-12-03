@@ -1,0 +1,16 @@
+com\bhojpurri\DatabaseManager.class
+com\bhojpurri\BilluUI$1.class
+com\bhojpurri\TTSManager.class
+com\bhojpurri\MainApp.class
+com\bhojpurri\SpeechRecorder.class
+com\bhojpurri\BilluUI$LanguageOption.class
+com\bhojpurri\CatAnimator.class
+com\bhojpurri\TestDatabase.class
+com\bhojpurri\EnvLoader.class
+com\bhojpurri\TestRecording.class
+com\bhojpurri\BilluUI.class
+com\bhojpurri\AudioPlayer.class
+com\bhojpurri\CatAnimator$AnimationState.class
+com\bhojpurri\Translator.class
+com\bhojpurri\TestSpeechify.class
+com\bhojpurri\Translator$1.class
